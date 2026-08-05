@@ -1,0 +1,11 @@
+Instância Best_Integer Tempo_Total Tempo_Solver #Nós Nó_Solução LP Melhor_Bound #Cortes
+./instancias/sem_suspeita_otimalidade_teste/i640-311_sft 1e+09 9701.16 5383.5 0 -1 30953.7 30953.7 44578
+./instancias/sem_suspeita_otimalidade_teste/i640-312_sft 1e+09 9701.09 5354.52 0 -1 30827.4 30827.4 43156
+./instancias/sem_suspeita_otimalidade_teste/i640-313_sft 1e+09 9700.89 5325.93 0 -1 30673.4 30673.4 42390
+./instancias/sem_suspeita_otimalidade_teste/i640-314_sft 1e+09 9709.57 5325.31 0 -1 30619.3 30619.3 40128
+./instancias/sem_suspeita_otimalidade_teste/i640-315_sft 1e+09 9702.13 4880.53 0 -1 30614.2 30614.2 41986
+./instancias/sem_suspeita_otimalidade_teste/i640-331_sft 1e+09 9696.8 5286.68 0 -1 40130.9 40130.9 77960
+./instancias/sem_suspeita_otimalidade_teste/i640-332_sft 1e+09 9696.41 5345.28 0 -1 39812.7 39812.7 80931
+./instancias/sem_suspeita_otimalidade_teste/i640-333_sft 1e+09 9696.8 5355.72 0 -1 39582.5 39582.5 84578
+./instancias/sem_suspeita_otimalidade_teste/i640-334_sft 1e+09 9696.35 5318.09 0 -1 39465.2 39465.2 79065
+./instancias/sem_suspeita_otimalidade_teste/i640-335_sft 1e+09 9696.47 5340.77 0 -1 40263.1 40263.1 80534
